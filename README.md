@@ -16,17 +16,19 @@
 
 ## 🛠 Tech Stack  
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>&nbsp;&nbsp;
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>&nbsp;&nbsp;
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>&nbsp;&nbsp;
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png"></code>&nbsp;&nbsp;
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"></code>&nbsp;&nbsp;
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>&nbsp;&nbsp;
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>&nbsp;&nbsp;
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>&nbsp;&nbsp;
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>&nbsp;&nbsp;
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>&nbsp;&nbsp;
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png"></code>  
+<p align="left">
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png">
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png">
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">
+</p>
 
 ---
 
@@ -34,16 +36,15 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sreejay1804&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreejay1804&layout=compact&theme=radical" alt="Top Languages" height="165"/>
 </p>  
 
 ---
 
-## 🔥 Contribution Streak  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sreejay1804&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>  
+## 🐍 Contribution Snake  
+
+![GitHub Snake Light](https://raw.githubusercontent.com/Sreejay1804/Sreejay1804/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Sreejay1804/Sreejay1804/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
