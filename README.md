@@ -8,7 +8,6 @@
 <div align="right">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreejay1804&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Sreejay1804's GitHub Stats" />
 </div>
-###
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=Sreejay1804&theme=dark&hide_border=true" alt="Sreejay1804's GitHub Stats" />
