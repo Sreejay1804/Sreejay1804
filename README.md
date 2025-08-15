@@ -13,6 +13,21 @@
 - 🛠 Loves automating workflows and streamlining user experiences.  
 
 ---
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sreejay1804&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreejay1804&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</p>  
+
+---
+
+## 🔥 Contribution Streak  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sreejay1804&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>  
+
+---
 
 ## 🛠 Tech Stack  
 
@@ -38,20 +53,6 @@
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
----
-
-## 📂 Featured Projects  
-
-### [📦 E-Commerce Billing Software](https://github.com/Sreejay1804/e)  
-**React, Spring Boot, PostgreSQL**  
-- Full-scale billing & order management system with secure authentication.  
-- Dynamic product filtering and real-time operations monitoring.  
-
-### [🏙 Smart City Big Data Architecture](#)  
-**Hadoop, Cloud Computing**  
-- Designed data ingestion & analytics pipeline for smart city applications.  
-
----
 
 ## 📊 GitHub Stats  
 
