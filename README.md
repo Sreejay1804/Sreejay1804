@@ -1,47 +1,79 @@
-<h2 align="left">Hi 👋! My name is  and I'm a ..., from ....</h2>
+# Hi there, I'm Sreejay 👋  
 
-###
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+🚀 **Full Stack Developer | Cloud & Data Enthusiast | Problem Solver**  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sreejay1804&theme=dark&show_icons=true&hide_border=true&count_private=true)
+💡 Passionate about building scalable web applications, optimizing backend systems, and exploring the synergy between **Cloud Computing, Data Analytics, and AI**.  
 
-###
-<div align="right">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreejay1804&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Sreejay1804's GitHub Stats" />
-</div>
+---
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=Sreejay1804&theme=dark&hide_border=true" alt="Sreejay1804's GitHub Stats" />
-</div>
+## 📌 About Me  
+- 🎓 **B.Tech in Computer Science** — specializing in modern web development and data-driven solutions.  
+- 💼 Experience with **React, Spring Boot, PostgreSQL** in production-grade projects.  
+- 🔍 Keen on **Big Data**, **Machine Learning**, and **Full Stack Development**.  
+- 🛠 Loves automating workflows and streamlining user experiences.  
 
-###
+---
 
+## 🛠 Tech Stack  
 
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
-###
+**Backend**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
 
-<br clear="both">
+**Database**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+**Tools**  
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
-###
+---
+
+## 📂 Featured Projects  
+
+### [📦 E-Commerce Billing Software](https://github.com/Sreejay1804/e)  
+**React, Spring Boot, PostgreSQL**  
+- Full-scale billing & order management system with secure authentication.  
+- Dynamic product filtering and real-time operations monitoring.  
+
+### [🏙 Smart City Big Data Architecture](#)  
+**Hadoop, Cloud Computing**  
+- Designed data ingestion & analytics pipeline for smart city applications.  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sreejay1804&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreejay1804&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</p>  
+
+---
+
+## 🔥 Contribution Streak  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sreejay1804&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>  
+
+---
+
+## 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreejayv/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sreejay1804)  
+
+---
+
+⭐ *"Code is like humor — when you have to explain it, it’s bad."*  
