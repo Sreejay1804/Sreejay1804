@@ -41,9 +41,7 @@
 
 ---
 
-## 🐍 Contribution Snake  
-
-![Snake animation](.github/snake.svg)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sreejay1804&theme=tokyonight)
 
 
 ---
