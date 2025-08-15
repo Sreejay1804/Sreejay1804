@@ -1,27 +1,21 @@
-### Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-![](https://komarev.com/ghpvc/?username=Sreejay1804&label=Profile%20Visits&color=blue&style=for-the-badge)
+# Hi there, I'm Sreejay 👋  
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://www.buymeacoffee.com/sreejayv"> 
-  <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> 
-</a>
+🚀 **Full Stack Developer | Data Analytics Enthusiast | Problem Solver**  
 
-- 🔭 I’m currently working on **Full Stack Development & Data Analytics Projects**  
-- 🌱 Learning **Advanced Spring Boot**, **React Optimization**, and **Data Visualization**  
-- 💬 Ask me about **React, Java, PostgreSQL, and Software Architecture**  
-- ⚡ Fun fact: I can debug faster with coffee ☕  
-- 😄 Pronouns: He / Him  
+💡 Passionate about building scalable web applications, optimizing backend systems, and delivering **data-driven insights** through modern software engineering.  
 
 ---
 
-#### 📫 How to reach me:
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/sreejayv/) &nbsp; 
-[<img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>](https://github.com/Sreejay1804) &nbsp; 
-[<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](mailto:sreejayvijayanand@gmail.com)  
+## 📌 About Me  
+- 🎓 **B.Tech in Computer Science** — specializing in modern web development and data-driven solutions.  
+- 💼 Experience with **React, Spring Boot, PostgreSQL** in production-grade projects.  
+- 🔍 Keen on **Big Data**, **Machine Learning**, and **Full Stack Development**.  
+- 🛠 Loves automating workflows and streamlining user experiences.  
 
 ---
 
-#### 👨🏻‍💻 Languages and Tools <br/>
+## 🛠 Tech Stack  
+
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
@@ -36,13 +30,35 @@
 
 ---
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Sreejay1804&show_icons=true&theme=radical)](https://github.com/Sreejay1804) &nbsp;
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sreejay1804&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github.com/Sreejay1804)
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sreejay1804&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreejay1804&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</p>  
 
 ---
 
-##### 🚀 Current Goal:
-Reach **100+ contributions in the next 30 days** and finish my **Invoice Management System Product Module**.
+## 🔥 Contribution Streak  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sreejay1804&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>  
 
+---
+
+## 📈 Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sreejay1804&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>  
+
+---
+
+## 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreejayv/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sreejay1804)  
+
+---
+
+⭐ *"Code is like humor — when you have to explain it, it’s bad."*  
