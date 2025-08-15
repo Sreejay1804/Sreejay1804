@@ -16,25 +16,25 @@
 
 ## 🛠 Tech Stack  
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>&nbsp;&nbsp;
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>&nbsp;&nbsp;
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>&nbsp;&nbsp;
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png"></code>&nbsp;&nbsp;
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"></code>&nbsp;&nbsp;
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>&nbsp;&nbsp;
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>&nbsp;&nbsp;
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>&nbsp;&nbsp;
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>&nbsp;&nbsp;
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>&nbsp;&nbsp;
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png"></code>  
 
 ---
-
 
 ## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sreejay1804&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreejay1804&layout=compact&theme=radical" alt="Top Languages" height="165"/>
 </p>  
 
@@ -43,13 +43,6 @@
 ## 🔥 Contribution Streak  
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sreejay1804&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>  
-
----
-
-## 📈 Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sreejay1804&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>  
 
 ---
