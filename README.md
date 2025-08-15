@@ -41,7 +41,10 @@
 
 ---
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sreejay1804&theme=tokyonight)
+## 📈 Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sreejay1804&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>  
 
 
 ---
