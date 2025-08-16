@@ -1,3 +1,13 @@
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sreejay1804/Sreejay1804/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sreejay1804/Sreejay1804/output/github-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Sreejay1804/Sreejay1804/output/github-snake.svg" />
+</picture>
+
+
+
+
 # Hi there, I'm Sreejay 👋  
 
 🚀 **Full Stack Developer | Data Analytics Enthusiast | Problem Solver**  
@@ -7,9 +17,9 @@
 ---
 
 ## 📌 About Me  
-- 🎓 **B.Tech in Computer Science** — specializing in modern web development and data-driven solutions.  
+- 🎓 **B.Tech in Computer Science and Business Systems** — specializing in modern web development and data-driven solutions.  
 - 💼 Experience with **React, Spring Boot, PostgreSQL** in production-grade projects.  
-- 🔍 Keen on **Big Data**, **Machine Learning**, and **Full Stack Development**.  
+- 🔍 Keen on **Automation**, **Machine Learning**, and **Full Stack Development**.  
 - 🛠 Loves automating workflows and streamlining user experiences.  
 
 ---
@@ -47,15 +57,7 @@
 
 
 ---
-## 🐍 Contribution Snake  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sreejay1804/Sreejay1804/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sreejay1804/Sreejay1804/output/github-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Sreejay1804/Sreejay1804/output/github-snake.svg" />
-</picture>
-
----
 
 ## 🌐 Connect With Me  
 
