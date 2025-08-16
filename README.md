@@ -47,11 +47,18 @@
 
 
 ---
+## 🐍 Contribution Snake  
+
+![snake gif](https://github.com/Sreejay1804/Sreejay1804/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 ## 🌐 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreejayv/)  
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sreejay1804)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Sreejay1804/)
+
 
 ---
 
