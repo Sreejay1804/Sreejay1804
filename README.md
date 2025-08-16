@@ -17,17 +17,16 @@
 ## 🛠 Tech Stack  
 
 <p align="left">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png">&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png">&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">&nbsp;&nbsp;
   <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">
 </p>
 
 ---
