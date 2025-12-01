@@ -1,6 +1,3 @@
-
-
-
 # Hi there, I'm Sreejay 👋  
 
 🚀 **Full Stack Developer | Data Analytics Enthusiast | Problem Solver**  
@@ -43,27 +40,25 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sreejay1804&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreejay1804&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sreejay1804&show_icons=true&theme=radical&cache_seconds=7200" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreejay1804&layout=compact&theme=radical&cache_seconds=7200" alt="Top Languages" height="165"/>
 </p>  
 
 ---
 
 ## 📈 Activity Graph  
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sreejay1804&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>  
 
-
 ---
-
 
 ## 🌐 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreejayv/)  
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sreejay1804)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Sreejay1804/)
-
 
 ---
 
