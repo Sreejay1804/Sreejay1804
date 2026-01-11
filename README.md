@@ -40,9 +40,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sreejay1804&show_icons=true&theme=radical&cache_seconds=7200" alt="GitHub Stats" height="165"/>
-  
-</p>  
+  <p>  
 
 ---
 
