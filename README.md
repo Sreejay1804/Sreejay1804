@@ -40,7 +40,15 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreejay1804&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="sreejay1804's GitHub Stats" />  
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sreejay1804&theme=dracula&show_icons=true&hide_border=true&count_private=true"
+    width="48%"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreejay1804&theme=dracula&hide_border=true&layout=compact"
+    width="37%"
+  />
 </p>
 
 ---
@@ -48,7 +56,6 @@
 ## 📈 Activity Graph  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sreejay1804&theme=tokyonight&hide_border=true" alt="sreejay1804's GitHub Stats" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sreejay1804&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>  
 
