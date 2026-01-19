@@ -40,9 +40,9 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreejay1804&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="sreejay1804's GitHub Stats" />
-  [![Sreejay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreejay1804)](https://github.com/sreejay1804/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=sreejay1804&theme=tokyo&show_icons=true&hide_border=true&count_private=true" alt="sreejay1804's GitHub Stats" />  
 </p>
+
 ---
 
 ## 📈 Activity Graph  
