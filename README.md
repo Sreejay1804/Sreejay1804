@@ -48,6 +48,7 @@
 ## 📈 Activity Graph  
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=sreejay1804&theme=tokyonight&hide_border=true" alt="sreejay1804's GitHub Stats" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sreejay1804&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>  
 
