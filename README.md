@@ -13,7 +13,7 @@
 ---
 
 ## 📌 About Me  
-- 🎓 **B.Tech in Computer Science and Business Systems** — specializing in modern web development and data-driven solutions.  
+- 🎓 **B.Tech in Computer Science and Business Systems** — specializing in modern web development and data-driven solutions.    
 - 💼 Experience with **React, Spring Boot, PostgreSQL** in production-grade projects.  
 - 🔍 Keen on **Automation**, **Machine Learning**, and **Full Stack Development**.  
 - 🛠 Loves automating workflows and streamlining user experiences.  
