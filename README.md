@@ -2,7 +2,7 @@
 
 🚀 **Full Stack Developer | Data Analytics Enthusiast | Problem Solver**  
 
-💡 Passionate about building scalable web applications, optimizing backend systems, and delivering **data-driven insights** through modern software engineering.  
+💡 Passionate about building scalable web applications, optimizing backend systems, and delivering **data-driven insights** through modern software engineering.   
  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sreejay1804/Sreejay1804/output/github-snake-dark.svg" />
