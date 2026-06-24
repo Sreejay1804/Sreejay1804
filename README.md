@@ -11,7 +11,7 @@
 </picture>
 
 ---
-
+    
 ## 📌 About Me  
 - 🎓 **B.Tech in Computer Science and Business Systems** — specializing in modern web development and data-driven solutions.    
 - 💼 Experience with **React, Spring Boot, PostgreSQL** in production-grade projects.  
