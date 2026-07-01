@@ -4,7 +4,7 @@
 
 💡 Passionate about building scalable web applications, optimizing backend systems, and delivering **data-driven insights** through modern software engineering.   
    
-<picture>
+<picture> 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sreejay1804/Sreejay1804/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sreejay1804/Sreejay1804/output/github-snake.svg" />   
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Sreejay1804/Sreejay1804/output/github-snake.svg" />
