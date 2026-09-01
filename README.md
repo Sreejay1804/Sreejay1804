@@ -10,7 +10,7 @@
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Sreejay1804/Sreejay1804/output/github-snake.svg" />
 </picture>
 
----
+--- 
      
 ## 📌 About Me  
 - 🎓 **B.Tech in Computer Science and Business Systems** — specializing in modern web development and data-driven solutions.    
